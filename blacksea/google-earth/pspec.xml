@@ -13,7 +13,7 @@
         <IsA>app</IsA>
         <Summary>3D planet viewer</Summary>
         <Description>A legacy 3D interface to view satellite images of Earth and other objects</Description>
-        <Archive sha1sum="86b1ac82867937269593d2bf93e96e4a16f46eb7" type="binary">http://dl.google.com/dl/earth/client/current/google-earth-stable_current_x86_64.rpm</Archive>
+        <Archive sha1sum="c02aa82966174f21f36bdeba39cd7f876d7a4e01" type="binary">http://dl.google.com/dl/earth/client/current/google-earth-stable_current_x86_64.rpm</Archive>
         <BuildDependencies>
             <Dependency>rpm2targz</Dependency>
         </BuildDependencies>
